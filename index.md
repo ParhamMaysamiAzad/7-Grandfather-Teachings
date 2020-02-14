@@ -1,8 +1,9 @@
 <html>
   <h1>
-      Logs
+      Hello
   </h1>
   <body>
-      Welcome to my Log. Here I will post about my experience in this class
+      I see you are interested in becoming a Project Manager!!!
+      But There are may things to consider if you want to become a Project Manager. You will need to know
   </body>
 </html>
