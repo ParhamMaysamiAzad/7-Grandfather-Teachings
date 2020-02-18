@@ -14,7 +14,7 @@
           <li>the education required for such a career
           <li>the future possibilities for that career
           <li>the salary range
-      </ul>
+      
   </body>
   <h2>
     What is Data Processing
@@ -27,6 +27,6 @@
             <li>a spreadsheet
             <li>a table of contents
             <li>etc.
-       </ul>
-    That is <em>your job</em>as a Data Processor!<br>
+       
+    That is your job as a Data Processor!<br>
 </html>
