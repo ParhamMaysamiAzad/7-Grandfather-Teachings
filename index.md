@@ -27,6 +27,7 @@
             <li>a spreadsheet
             <li>a table of contents
             <li>etc.
-       
-    That is your job as a Data Processor!<br>
+  </ul>
+  That is your job as a Data Processor
+    
 </html>
