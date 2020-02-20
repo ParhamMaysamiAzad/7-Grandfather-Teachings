@@ -24,7 +24,7 @@
             <li>a graph
             <li>a spreadsheet
             <li>a table of contents
-            <li>etc.
+            <li>etc. <br>
         </ul>
   That is your job as a Data Processor<br>
   It is important that you understand what a Data Processor does. You can learn a lot about it if you go this website <li><ahref(https://www.talend.com/resources/what-is-data-processing/)>(this website)</a> </li>
