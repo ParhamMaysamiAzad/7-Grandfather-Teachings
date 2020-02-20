@@ -14,8 +14,6 @@
           <li>the education required for such a career
           <li>the future possibilities for that career
           <li>the salary range
-      
-  </body>
   <h2>
     What is Data Processing
   </h2>
