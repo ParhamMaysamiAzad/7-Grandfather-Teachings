@@ -8,7 +8,7 @@
   <body>
       I see you are interested in becoming a Data Processor!!!
     But There are may things to consider if you want to become a <strong>Data processor </strong>. <br>
-        You need to consider cheese
+        You need to consider tomato
       <ul>
           <li>the description of the job and its responsibilities
           <li>the education required for such a career
@@ -27,6 +27,6 @@
             <li>etc.
         </ul>
   That is your job as a Data Processor<br>
-  It is important that you understand what a Data Processor does. You can learn a lot about it if you go this website <a>href(https://www.talend.com/resources/what-is-data-processing/)>(this website)</a>
+  It is important that you understand what a Data Processor does. You can learn a lot about it if you go this website <li><a>href(https://www.talend.com/resources/what-is-data-processing/)>(this website)</a> </li>
     
 </html>
