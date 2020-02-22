@@ -26,11 +26,16 @@
             <li>a table of contents
             <li>etc. <br>
         
+  Data Processors have evolved in the past decades. It's no longer just sitting at a computer typing each individual number into a spreadsheet. Nowadays, Data Processors gather data via polls, forms, and other forms of data and draw conclusions from it. These days, Data Processors make their own software to store data and portray it. Because this skill is necessary, they take computer science courses to make these softwares. They also work with all kinds of different technologies and computer and they teach businesses what kind of technologies that should be used to grow their business.
   That is your job as a Data Processor<br>
-  It is important that you understand what a Data Processor does. You can learn a lot about it if you go to <a>href(https://www.talend.com/resources/what-is-data-processing/)>(this website)</a>
     <h2>
       Education Required
     </h2>
+    The proper education is necessary to obtain this position. Data Processing requires at minimum, a knowlegde of the use of Microsoft Word, Excel, Projects, a keyboard etc.. But the fundamentals needed for this job are
+    <ul>
+          <li> a highschool diploma
+          <li> degree is business or administration
+          <li> 
     
       
     
