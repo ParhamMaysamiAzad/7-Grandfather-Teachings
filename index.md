@@ -8,12 +8,13 @@
   <body>
       I see you are interested in becoming a Data Processor!!!
     But There are may things to consider if you want to become a <strong>Data processor </strong>. <br>
-        You need to consider apple
+        You need to consider 
       <ul>
           <li>the description of the job and its responsibilities
           <li>the education required for such a career
           <li>the future possibilities for that career
           <li>the salary range
+  </body>
   <h2>
     What is Data Processing
   </h2>
@@ -31,7 +32,8 @@
     <h2>
       Education Required
     </h2>
-    The proper education is necessary to obtain this position. Data Processing requires at minimum, a knowlegde of the use of Microsoft Word, Excel, Projects, a keyboard etc.. But the fundamentals needed for this job are
+    The proper education is necessary to obtain this position. Data Processing requires at minimum, a knowlegde of the use of Microsoft Word, Excel, Projects, a keyboard etc.. <br>
+    But the fundamentals needed for this job are...
     <ul>
           <li> a highschool diploma
           <li> degree is business or administration
