@@ -14,6 +14,7 @@
           <li>the education required for such a career
           <li>the future possibilities for that career
           <li>the salary range
+      </ul>
   </body>
   <h2>
     What is Data Processing
@@ -25,9 +26,10 @@
             <li>a graph
             <li>a spreadsheet
             <li>a table of contents
-            <li>etc. <br>
+            <li>etc. 
+        </ul>
         
-  Data Processors have evolved in the past decades. It's no longer just sitting at a computer typing each individual number into a spreadsheet. Nowadays, Data Processors gather data via polls, forms, and other forms of data and draw conclusions from it. These days, Data Processors make their own software to store data and portray it. Because this skill is necessary, they take computer science courses to make these softwares. They also work with all kinds of different technologies and computer and they teach businesses what kind of technologies that should be used to grow their business.
+  Data Processors have evolved in the past decades. It's no longer just sitting at a computer typing each individual number into a spreadsheet. Nowadays, Data Processors gather data via polls, forms, and other forms of data and draw conclusions from it. These days, Data Processors make their own software to store data and portray it. Because this skill is necessary, they take computer science courses to make these softwares. They also work with all kinds of different technologies and computers and they teach businesses what kind of technologies that should be used to grow their business.<br>
   That is your job as a Data Processor<br>
     <h2>
       Education Required
