@@ -135,15 +135,49 @@ https://www.payscale.com/research/CA/Job=Data_Processor/Salary
     </body>
     
   <h2>
-    
-
+    First year courses
+  </h2>
+      <body>
+           To succeed, you will need to take these courses in your first year...
+          <ul>
+            <li> Introduction to computing 1 </li>
+            <li> Calculus 1 </li>
+            <li> Introduction to linear algebra </li>
+            <li> Technical report writing </li>
+            <li> Elective </li>
+            <li> Digital systems 1 </li>
+            <li> Introduction to computing 2 </li>
+            <li> Calculus 2 </li>
+            <li> Discrete mathematics for computing </li>
+            <li> Elective </li>
+  </ul>
   
-
+  </body>
   
-  
-  
-          
-    
+  <h2>
+    Extras to Increase Success
+  </h2>
+     <body>
+          If you really want to go all out, you can take these in you electives or summer school. You can take Data structures and algorithms and Introduction to probability. Many more courses are available through the UOttawa website.
+      </body>
       
-    
+   <h2>
+      Length of the Program
+  </h2>
+    <body>
+        At UOttawa, the Data Science program last 4 years (5 TBD).
+    </body>
+        
+<h1>
+  CONGRADULATIONS!!!
+</h1>
+    <body>
+        You are now ready to become a Data Processor! What are waiting for? Go get started now!
+    </body>
+  
+<h3>
+   https://www.uottawa.ca/en
+  
+</h3>
+  
 </html>
