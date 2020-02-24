@@ -40,7 +40,7 @@
   <li> a highschool diploma</li>
   <li> degree is business or administration</li>
   <li> degree in Data Science</li>
-  <li> degree in Computer Science
+  <li> degree in Computer Science</li>
     </ul>
     Here are the recommended courses to take in highschool to obtain this position
     
@@ -61,11 +61,11 @@
       Future Possiblilities
   </h2>
   <body>
-        As understanding a customers needs have grown in companies in the pas few decades, the job potentials are increasing as well.<br>
-  <img>
+        As understanding a customers needs have grown in companies in the pas few decades, the job potentials are increasing as well.
+  </body>
       <img src=https://www.mcgill.ca/datascience/files/datascience/styles/wysiwyg_extra_large/public/growth_of_data.png?itok=RnPkeEbA"" alt="Rate of change of job opertunities" width="400" height="200">
         
-  </img>
+  
   
   
           
