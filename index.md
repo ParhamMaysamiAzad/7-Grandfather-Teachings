@@ -39,6 +39,31 @@
     <ul>
   <li> a highschool diploma</li>
   <li> degree is business or administration</li>
+  <li> degree in Data Science</li>
+  <li> degree in Computer Science
+    </ul>
+    Here are the recommended courses to take in highschool to obtain this position
+    
+   <ul>
+  <li> Mathematic of data management</li>
+  <li> Financial Acounting Fundamentals</li>
+  <li> Introduction to business technologies</li>
+  <li> Introduction to Business (useful)</li>
+  <li> Introduction to Computer studies (useful)</li>
+  <li> Functions</li>
+  <li> Advanced Functions </li>
+  <li> Calculus and Vectors </li>
+    </ul>
+  
+  Although most of these arn't mandatory, they are extreamly useful to becoming a Data Processor.
+  
+  <h2>
+      Future Possiblilities
+  </h2>
+        As understanding a customers needs have grown in companies in the pas few decades, the job potentials are increasing as well.
+        
+  
+  
           
     
       
