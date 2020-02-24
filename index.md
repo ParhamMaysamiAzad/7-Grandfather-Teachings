@@ -64,7 +64,81 @@
         As understanding a customers needs have grown in companies in the pas few decades, the job potentials are increasing as well.
   </body>
       <img src="https://www.mcgill.ca/datascience/files/datascience/styles/wysiwyg_extra_large/public/growth_of_data.png?itok=RnPkeEbA" alt="Rate of change of job opertunities" width="400" height="200">
-        
+      
+   <body>
+       If the graph is not loading, you may use the url in the error.
+  </body>
+  
+  <h2>
+    Salary
+  </h2>
+    <body>
+        The salary ranges from $23,000 - $53,000. The average in Canada is $34,783.
+    </body>
+  <h2>
+      My personal opinion
+  </h2>
+    <body>
+        Personally, I am not interested in this job because I’m not comfortable with sitting at a screen most of my day for 40 year to retirement. I prefer something more interactive and a stand up feeling. When I grow up, I want to be a Avian Veterinarian Practitioner (or nutritionist). 
+
+    </body>
+    
+  <h3>
+     Sources
+  </h3>
+    <body>
+        http://webcollegesearch.com/disciplines/it-computer-science/data-entry-processing/how-to-become-a-data-processor/
+
+https://www.virtualhighschool.com/courses/outlines/mdm4u.asp
+
+https://www.corpedgroup.com/resources/pm/WhatisaPM.asp
+
+
+
+https://www.talend.com/resources/what-is-data-processing/
+
+https://www.collegefactual.com/majors/computer-information-sciences/data-processing/
+
+https://www.payscale.com/research/CA/Job=Data_Processor/Salary
+
+    </body>
+  <h1>
+    POST SECONDARY SCHOOLING
+  </h1>
+    <body>
+        Now it's time to pick the right university for you to become a Data Processor.
+    </body>
+    
+ <h2> 
+    Identifying a school
+ </h2>
+  <h4>
+    Personally, I recommend UOttawa!
+  </h4>
+  
+  <h2>
+    Entry Requirements
+  </h2>
+    <body>
+  The entry requirements to entre a <strong> DATA SCIENCE PROGRAM </strong> are as followed<br>
+  These are the bare minimum...
+  <ul>
+    <li> high 80s average </li>
+    <li> English 4U </li>
+    <li> French 4U </li>
+    <li> Advanced functions 4U </li>
+    <li> Calculus and Vectors 4U </li>
+    <li>Minimum of 70 in all math courses </li>
+    
+  </ul>
+  
+    </body>
+    
+  <h2>
+    
+
+  
+
   
   
   
