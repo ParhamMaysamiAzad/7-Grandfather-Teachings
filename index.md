@@ -61,9 +61,11 @@
       Future Possiblilities
   </h2>
   <body>
-        As understanding a customers needs have grown in companies in the pas few decades, the job potentials are increasing as well.
+        As understanding a customers needs have grown in companies in the pas few decades, the job potentials are increasing as well.<br>
+  <img>
       <img src=https://www.mcgill.ca/datascience/files/datascience/styles/wysiwyg_extra_large/public/growth_of_data.png?itok=RnPkeEbA"" alt="Rate of change of job opertunities" width="400" height="200">
         
+  </img>
   
   
           
