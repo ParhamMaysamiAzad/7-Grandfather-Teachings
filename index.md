@@ -1,31 +1,103 @@
 <html>
   <h1>
-      DATA PROCESSING
+      THE 7 GRANDFATHER TEACHINGS
   </h1>
   
   <body>
-      Are you interested in becoming a Data Processor? If so
-    there are may things to consider if you want to become a <strong>Data processor </strong>. <br>
-        You need to consider 
-      <ul>
-        <li>the description of the job and its responsibilities</li>
-        <li>the education required for such a career</li>
-        <li>the future possibilities for that career</li>
-        <li>the salary range</li>
-      </ul>
+    The <strong>7 Grandfather Teachings</strong> are part of a story told down through generations and generations of Indigenous folk. <br>
+       
   </body>
   <h2>
-    What is Data Processing
+    The Ojibwe Teachings
   </h2>
   <body>
-     Data processing is the act of using gathered information and turn it into a form of media more readable.<br>
-      For example:<br>
-        <ul>
-          <li>a graph</li>
-          <li>a spreadsheet</li>
-          <li>a table of contents</li>
-          <li>etc.</li>
-        </ul>
+     There are many different versions of this story because of the diversity of tribes there are.<br>
+     We will be focusing on the Ojibwe version<br>
+     <br>
+     There were 7 grandfathers spirits who were given the responsibility to watch over the people of the earth by the creator. When they saw that life was not good for the people of the earth, they decided it was time to fix it. The residence of Turle Island were living in a negative and unhealthy way. To remedy it, they will give 7 teachings to a child who was not tainted by evil yet. When the child was taught them, he didn't know what it meant. It wasn't until he lived his whole life did he understand them because, every 7 years, a spirit animal would teach the child the meaning of them. <br>
+    <br>
+  </body>
+    
+  <h3>
+      Wisdom
+  </h3>
+  <body>
+      <ul>
+        <li> is the gift to understand the importance of knowledge </li>
+        <li> to distinguish between right and wrong </li>
+        <li> using knowledge </li>
+        <li> recognizing your differences and others in a respectful way </li>
+      </ul>
+  </body>
+   
+  <h3>
+      Love
+  </h3>
+  <body>
+      <ul>
+        <li> care fir yourself and others </li>
+        <li> if practiced, you will become at peace </li>
+        <li> shows the balance of life and creation </li>
+      </ul>
+  </body>
+ 
+  <h3>
+      Respect
+  </h3>
+  <body>
+      <ul>
+        <li> honor all creation </li>
+        <li> do not waste things </li>
+        <li> be mindful of balance </li>
+        <li> share with others </li>
+        <li> treat others the way you would like to be treated </li>
+      </ul>
+  </body>
+    
+  <h3>
+      Bravery
+  </h3>
+  <body>
+      <ul>
+        <li> defend what you believe in and what is right for you </li>
+        <li> make positive choices </li>
+        <li> face your fears </li>
+      </ul>
+  </body>
+ 
+  <h3>
+      Honesty
+  </h3>
+  <body>
+      <ul>
+        <li> live with integrity </li>
+        <li> accept who you are </li>
+        <li> the act of not trying to deceiving others </li>
+      </ul>
+  </body>
+  
+  <h3>
+      Humility
+  </h3>
+  <body>
+      <ul>
+        <li> be humble </li>
+        <li> be modest </li>
+      </ul>
+  </body>
+  
+  <h3>
+      Truth
+  </h3>
+  <body>
+      <ul>
+        <li> to show honor and sincerity in all that you do </li>
+        <li> if learned, you obtain the ability to act without regret </li>
+      </ul>
+    <br>
+    In order for people to be happy, they have to develop themselves in all of these aspects. We're all meant to be the child in the story.
+  </body>
+    
         
   Data Processors have evolved in the past decades. It's no longer just sitting at a computer typing each individual number into a spreadsheet. Nowadays, Data Processors gather data via polls, forms, and other forms of data and draw conclusions from it. These days, Data Processors make their own software to store data and portray it. Because this skill is necessary, they take computer science courses to make these softwares. They also work with all kinds of different technologies and computers and they teach businesses what kind of technologies that should be used to grow their business.<br>
   That is your job as a Data Processor<br>
