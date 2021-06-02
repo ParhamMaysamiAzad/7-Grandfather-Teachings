@@ -2,7 +2,7 @@
   <h1>
       THE 7 GRANDFATHER TEACHINGS
   </h1>
-  <img src="https://i.pinimg.com/originals/75/fe/15/75fe1532db4ef1e3b8ae98c130602c3b.gif" alt="" width="400" height="200">
+  <img src="https://i.pinimg.com/originals/75/fe/15/75fe1532db4ef1e3b8ae98c130602c3b.gif" alt="" width="400" height="400">
   <body>
     The <strong>7 Grandfather Teachings</strong> are part of a story told down through generations and generations of Indigenous folk. <br>
        
